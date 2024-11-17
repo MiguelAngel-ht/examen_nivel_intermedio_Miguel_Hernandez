@@ -1,6 +1,6 @@
-# Proyecto de Funciones en Python
+# Nivel Consultant, Experience
 
-Este proyecto contiene funciones diseñadas para resolver tareas comunes utilizando Python.
+Este proyecto contiene funciones diseñadas para resolver tareas utilizando Python.
 ---
 
 
