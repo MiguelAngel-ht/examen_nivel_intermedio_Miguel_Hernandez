@@ -99,10 +99,10 @@ print(cuadrados)  # [36, 64]
 # Ejecutar en tu equipo
 
 **PASO 1**
-Descargar archivo examen.py
+Descargar archivo [examen.py](}https://github.com/MiguelAngel-ht/examen_nivel_intermedio_Miguel_Hernandez/blob/main/examen.py)
 
 **PASO 2**
-Importar el nombre del archivo .py y poner la funcion a importar:
+Importar el nombre del archivo *.py* y poner la funcion a importar:
 ```python
 from examen import filter_and_square
 
